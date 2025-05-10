@@ -1,0 +1,14 @@
+# Cloudflare
+zoneid="abcde12345abcde12345"
+cloudflare_zone_api_token="abcdefghijk_abcdefghijklmnopqrstuvwxyz"
+dns_record="ddns.domain.com"
+
+# 
+ttl=300               # 120-7200 or 1
+proxied=true          # true / false
+what_ip="external"    # external / internal
+
+# notification
+notify_me_telegram="no"   # yes / no
+telegram_bot_API_Token="123456:ABC-DEF"
+telegram_chat_id="123456789"
