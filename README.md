@@ -152,6 +152,14 @@ bash -x ./update-cloudflare-dns.sh 2>&1 | tee debug.log
 
 ---
 
+☕ Support
+
+If this project helps you, consider buying me a coffee!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frombit)
+
+---
+
+
 ## 📄 License
 
 MIT © 2025 Frombit
